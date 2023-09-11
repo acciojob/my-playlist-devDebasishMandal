@@ -34,6 +34,9 @@ video,audio{
 	width:100%;
 }
 
+.player_one,.player_two{
+	background-color: rgb(255, 255, 255);
+}
 
 
 
