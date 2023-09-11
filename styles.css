@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+h1,h2{
+	text-align:center;
+}
+body{
+	background-color: rgb(204, 204, 204);
+	font-family:arial;
+}
+
+
+li{
+	list-style-type: none;
+	
+}
+
+a {
+	text-decoration-line: none;
+	
+}
+
+
+.div1,.div2{
+	
+	background-color: rgb(255, 255, 255);
+	padding:14px;
+	border:2px solid black;
+	border-radius:8px;
+}
+
+.div2{
+	margin:32px;
+}
+video,audio{
+	width:100%;
+}
+
+
+
+
